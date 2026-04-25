@@ -5,4 +5,5 @@
 ADeBugGameGameMode::ADeBugGameGameMode()
 {
 	// stub
+	UE_LOG(LogTemp, Log, TEXT("test"));
 }
